@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#3b84d4</color>
+  <color name="colorPrimaryDark">#3b84d4</color>
+  <color name="colorAccent">#FFFFFF</color>
+
+  <color name="color_button_text">#FFFFFF</color>
+  <color name="color_create_account_pressed">#188594</color>
+  <color name="color_create_account_normal">#348a9c</color>
+  <color name="color_login_pressed">#107387</color>
+  <color name="color_login_normal">#2e7d93</color>
+
+</resources>
